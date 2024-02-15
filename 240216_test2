@@ -1,25 +1,26 @@
+<!DOCTYPE html>
 <html lang="en">
-          <head>
-            <meta charset="utf-8">
-          
-            <title>Html Generated</title>
-            <meta name="description" content="HTML meta tag page">
-            <meta name="author" content="htmlGenerator">
-            <link href="https://fonts.googleapis.com/css?family=Adobe+Gothic Std&display=swap" rel="stylesheet">
-
-            <link rel="stylesheet" href="styles.css">
-            
-            <style>
-              /*
-                Figma Background for illustrative/preview purposes only.
-                You can remove this style tag with no consequence
-              */
-              body {background: #E5E5E5; }
-            </style>
-          
-          </head>
-          
-          <body>
-            <div class=e328_12><div  class="e328_13"></div><div  class="e328_14"></div><div class=e328_15><div  class="e328_16"></div></div><div  class="e328_18"></div><div class=e328_19><div  class="e328_20"></div></div><span  class="e328_21">HONFLEUR</span><span  class="e330_4">#서울브런치 #이태원브런치 #한남동브런치</span></div>
-          </body>
-          </html>
+<head>
+    <meta charset="UTF-8">
+    <title>Html Generated</title>
+    <meta name="description" content="Figma htmlGenerator">
+    <meta name="author" content="htmlGenerator">
+    <link href="https://fonts.googleapis.com/css?family=Adobe+Gothic+Std&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="e328_12">
+        <div class="e328_13"></div>
+        <div class="e328_14"></div>
+        <div class="e328_15">
+            <div class="e328_16"></div>
+        </div>
+        <div class="e328_18"></div>
+        <div class="e328_19">
+            <div class="e328_20"></div>
+        </div>
+        <span class="e328_21">HONFLEUR</span>
+        <span class="e330_4">#서울브런치 #이태원브런치 #한남동브런치</span>
+    </div>
+</body>
+</html>
